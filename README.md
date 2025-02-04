@@ -3,12 +3,7 @@
 ## Description
 This repository contains a project focused on analyzing supply chains using Python. The analysis is performed through Jupyter Notebooks, making it easy to visualize and understand the data and results.
 
-## Repository Structure
-Here is an overview of the main files and directories in this repository:
 
-- `notebooks/` - Contains Jupyter Notebooks with the analysis code.
-- `data/` - Contains the datasets used for the analysis.
-- `scripts/` - Contains Python scripts for data processing and analysis.
 
 ## Getting Started
 To get started with this project, you need to have Python installed on your system along with the necessary packages. Follow these steps:
