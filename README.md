@@ -25,14 +25,4 @@ To get started with this project, you need to have Python installed on your syst
     jupyter notebook
     ```
 
-## Usage
-The Jupyter Notebooks in the `notebooks/` directory contain detailed analysis of the supply chain data. You can run the notebooks cell by cell to see the results and understand the analysis process.
 
-## Contribution
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-For any questions or feedback, you can reach out to the repository owner at [dedemilano](https://github.com/dedemilano).
